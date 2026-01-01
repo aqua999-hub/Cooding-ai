@@ -1,0 +1,5 @@
+{
+  "name": "CodeGPT Clone",
+  "description": "A high-end, specialized AI coding assistant with a UI inspired by modern chat platforms. Features syntax highlighting, multi-language support, and persistent chat history.",
+  "requestFramePermissions": []
+}
